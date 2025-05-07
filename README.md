@@ -32,7 +32,4 @@ This is a **full-stack chat and direct messaging app** featuring a modern React.
 - Express (REST server)  
 - Chat.io API  
 
----
-
-## 🗂 Project Structure
 
